@@ -37,6 +37,10 @@
   padding-top: 1px;
 }
 
+.normal {
+  line-height: 18pt;
+}
+
 .list {
   list-style: none;
   padding: 0;
