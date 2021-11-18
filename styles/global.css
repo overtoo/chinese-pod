@@ -25,3 +25,17 @@ img {
   max-width: 100%;
   display: block;
 }
+
+.hide-en {
+  display: none;
+}
+
+.show-en {
+  display: inline-block;
+  color: grey;
+}
+
+.myDIV:hover + .hide-en {
+  display: inline-block;
+  color: blue;
+}
