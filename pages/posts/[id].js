@@ -55,10 +55,18 @@ export default function Post({ postData }) {
 
   function plecofy(a, b) {
     {
-      return highlightVocab(a, b)
-        .replace(/<\/?[^>]+(>|$)/g, "")
-        .replace(/{.*}/g, "");
+      return (
+        highlightVocab(a, b)
+          .replace(/<\/?[^>]+(>|$)/g, "")
+          .replace(/{.*}/g, "") +
+        highlightVocab(a, b).replace(/<\/?[^>]+(>|$)/g, "")
+      );
     }
+  }
+
+  function twoInOne() {
+    copyTextToClipboard(plecofy(postData.words, postData.contentHtml));
+    window.open("plecoapi://x-callback-url/clipboard", "_blank");
   }
   return (
     <Layout>
@@ -80,7 +88,21 @@ export default function Post({ postData }) {
             Copy
           </button>
 
-          <a href={"plecoapi://x-callback-url/clipboard"}>Pleco</a>
+          <a href={"plecoapi://x-callback-url/clipboard"}> Transcript Pleco</a>
+          <button onClick={() => twoInOne()}>Transcript Pleco</button>
+          <a href={"plecoapi://x-callback-url/s?q=" + postData.words}>
+            <button
+              onClick={() =>
+                window.open(
+                  "plecoapi://x-callback-url/s?q=" + postData.words,
+                  "_blank"
+                )
+              }
+            >
+              Vocab Pleco
+            </button>
+            Vocab Pleco
+          </a>
 
           <div
             className={utilStyles.normal}
