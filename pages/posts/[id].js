@@ -76,18 +76,15 @@ export default function Post({ postData }) {
           ) : (
             "nothing"
           )}
-          {!isNativeShare ? (
-            <a
-              href={
-                "plecoapi://x-callback-url/s?q=" +
-                plecofy(postData.words, postData.contentHtml)
-              }
-            >
-              Pleco
-            </a>
-          ) : (
-            "nothing"
-          )}
+
+          <a
+            href={
+              "plecoapi://x-callback-url/s?q=" +
+              plecofy(postData.words, postData.contentHtml)
+            }
+          >
+            Pleco
+          </a>
 
           <div
             className={utilStyles.normal}
