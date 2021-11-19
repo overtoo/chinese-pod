@@ -22,6 +22,14 @@ export async function getStaticPaths() {
   };
 }
 
+export async function copyTextToClipboard(text) {
+  if ("clipboard" in navigator) {
+    return await navigator.clipboard.writeText(text);
+  } else {
+    return document.execCommand("copy", true, text);
+  }
+}
+
 export default function Post({ postData }) {
   const [pageURL, setPageURL] = useState("");
   const [isNativeShare, setNativeShare] = useState(false);
@@ -63,28 +71,16 @@ export default function Post({ postData }) {
           <button onClick={() => setShowEn(!showEn)}>
             {showEn ? "Hide Translation" : "Show Translation"}
           </button>
-          {!isNativeShare ? (
-            <button
-              onClick={() =>
-                navigator.clipboard.writeText(
-                  plecofy(postData.words, postData.contentHtml)
-                )
-              }
-            >
-              Copy to Pleco
-            </button>
-          ) : (
-            "nothing"
-          )}
 
-          <a
-            href={
-              "plecoapi://x-callback-url/s?q=" +
-              plecofy(postData.words, postData.contentHtml)
+          <button
+            onClick={() =>
+              copyTextToClipboard(plecofy(postData.words, postData.contentHtml))
             }
           >
-            Pleco
-          </a>
+            Copy
+          </button>
+
+          <button href={"plecoapi://x-callback-url/clipboard"}>Pleco</button>
 
           <div
             className={utilStyles.normal}
