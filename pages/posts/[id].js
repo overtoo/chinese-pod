@@ -80,7 +80,7 @@ export default function Post({ postData }) {
             Copy
           </button>
 
-          <button href={"plecoapi://x-callback-url/clipboard"}>Pleco</button>
+          <a href={"plecoapi://x-callback-url/clipboard"}>Pleco</a>
 
           <div
             className={utilStyles.normal}
