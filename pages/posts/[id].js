@@ -79,31 +79,17 @@ export default function Post({ postData }) {
           <button onClick={() => setShowEn(!showEn)}>
             {showEn ? "Hide Translation" : "Show Translation"}
           </button>
-
+          <button onClick={() => twoInOne()}>Transcript Pleco</button>
           <button
             onClick={() =>
-              copyTextToClipboard(plecofy(postData.words, postData.contentHtml))
+              window.open(
+                "plecoapi://x-callback-url/s?q=" + postData.words,
+                "_blank"
+              )
             }
           >
-            Copy
-          </button>
-
-          <a href={"plecoapi://x-callback-url/clipboard"}> Transcript Pleco</a>
-          <button onClick={() => twoInOne()}>Transcript Pleco</button>
-          <a href={"plecoapi://x-callback-url/s?q=" + postData.words}>
-            <button
-              onClick={() =>
-                window.open(
-                  "plecoapi://x-callback-url/s?q=" + postData.words,
-                  "_blank"
-                )
-              }
-            >
-              Vocab Pleco
-            </button>
             Vocab Pleco
-          </a>
-
+          </button>
           <div
             className={utilStyles.normal}
             dangerouslySetInnerHTML={{
