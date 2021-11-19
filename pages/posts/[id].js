@@ -4,7 +4,7 @@ import utilStyles from "../../styles/utils.module.css";
 
 import { getAllPostIds, getPostData } from "../../lib/posts";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 
 export async function getStaticProps({ params }) {
   const postData = await getPostData(params.id);
@@ -23,12 +23,35 @@ export async function getStaticPaths() {
 }
 
 export default function Post({ postData }) {
+  const [pageURL, setPageURL] = useState("");
+  const [isNativeShare, setNativeShare] = useState(false);
+  useEffect(() => {
+    setPageURL(window.location.href);
+    if (navigator.share) {
+      setNativeShare(true);
+    }
+  }, []);
+
   const handleKeyPress = (event) => {
     if (event.key === "e") {
       alert("enter press here! ");
     }
   };
   const [showEn, setShowEn] = useState(false);
+
+  function highlightVocab(words = "好好好好", text) {
+    const arr = words.split(" ");
+    arr.map((item) => (text = text.split(item).join(`【${item}】`)));
+    return text;
+  }
+
+  function plecofy(a, b) {
+    {
+      return highlightVocab(a, b)
+        .replace(/<\/?[^>]+(>|$)/g, "")
+        .replace(/{.*}/g, "");
+    }
+  }
   return (
     <Layout>
       <div tabIndex="-1" onKeyDown={handleKeyPress}>
@@ -40,10 +63,36 @@ export default function Post({ postData }) {
           <button onClick={() => setShowEn(!showEn)}>
             {showEn ? "Hide Translation" : "Show Translation"}
           </button>
+          {!isNativeShare ? (
+            <button
+              onClick={() =>
+                navigator.clipboard.writeText(
+                  plecofy(postData.words, postData.contentHtml)
+                )
+              }
+            >
+              Copy to Pleco
+            </button>
+          ) : (
+            "nothing"
+          )}
+          {!isNativeShare ? (
+            <a
+              href={
+                "plecoapi://x-callback-url/s?q=" +
+                plecofy(postData.words, postData.contentHtml)
+              }
+            >
+              Pleco
+            </a>
+          ) : (
+            "nothing"
+          )}
+
           <div
             className={utilStyles.normal}
             dangerouslySetInnerHTML={{
-              __html: postData.contentHtml
+              __html: highlightVocab(postData.words, postData.contentHtml)
                 .replace(/【/g, `<span style="color:red">`)
                 .replace(/】/g, `</span>`)
                 .replace(
