@@ -488,5 +488,7 @@ Google評論 {Google comment}
 
 「自雇者」 {"Self-employer"}
 
-我在自學寫程式，這是我目前的重心 {I am writing a self-study, this is my current }
+我在自學寫程式，這是我目前的重心 {I am writing a self-study, this is my current } 
+
+end
 
