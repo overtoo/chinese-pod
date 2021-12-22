@@ -9,6 +9,8 @@ pinyinMeaning: "huáiyí tánxìng"
 
 車子比較好停
 
+停電
+
 我很醜 我是胖妹 {im ugly, im a fat girl}
 
 我相信你可以的 {i beieve you can do it}

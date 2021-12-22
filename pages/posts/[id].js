@@ -68,6 +68,21 @@ export default function Post({ postData }) {
     copyTextToClipboard(plecofy(postData.words, postData.contentHtml));
     window.open("plecoapi://x-callback-url/clipboard", "_blank");
   }
+
+  function azureMe() {
+    const startText = `<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="en-US"><voice name="zh-CN-YunyangNeural"><prosody rate="0%" pitch="0%">`;
+    const breakText = '<break time="3s"/>';
+    const endText = `</prosody></voice></speak>`;
+    const sampleText = "不好意思\n你要什麼？";
+    // const middleText = sampleText;
+    const middleText = plecofy(postData.words, postData.contentHtml);
+    const cleanText = middleText.split("\n").join(breakText);
+    copyTextToClipboard(startText + cleanText + endText);
+    window.open(
+      `https://azure.microsoft.com/zh-tw/services/cognitive-services/text-to-speech/#features`,
+      "_blank"
+    );
+  }
   return (
     <Layout>
       <div tabIndex="-1" onKeyDown={handleKeyPress}>
@@ -80,6 +95,8 @@ export default function Post({ postData }) {
             {showEn ? "Hide Translation" : "Show Translation"}
           </button>
           <button onClick={() => twoInOne()}>Transcript Pleco</button>
+          <button onClick={() => azureMe()}>MS Azure</button>
+          {/* {azureMe()} */}
           <button
             onClick={() =>
               window.open(
