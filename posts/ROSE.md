@@ -4,6 +4,181 @@ description: "none"
 words: "論文 研究所 研討會 狀況 阻擋 病毒 新年 柬埔寨 好轉 開放 邊境 機票 思考 查 網站 政策 隔離 同桌 不怪 罪惡感 合租 焦慮 待 持續 續約 結束 社會 創意 產業 國際性 挑戰 安逸 懶散 胡志明市 丟臉 狼性 溫和 競爭 友善 回報 即使 提升 程度 跨年 存錢 減肥 閱讀 屍體 傾向 文章 關掉 公共 空間 依賴 視覺 開口 心理 障礙 內向 犯錯 考慮 思考 迷因 鄉民 評論 社會 觀察 犀利 記憶力 通用 環境 接案 自僱 自學 寫程式 重心 老樣子 提前 平日 聚會 從眾 懶得 隨性 隨和 句話 安排 訊息 加強 口說 聲調 四聲 謙虛 表達 自從 餓 印象 深刻 趟 評價 平凡 爛 系統 連去了 北邊 路標 展覽 迂迴 直接 河堤 河濱 瘋掉 整天 不好惹 惹不得 惹不起 哽咽 造 奶奶 去世 過世 捨不得 丟掉 期間 則 練習 作業 見到 讚許 家具 工廠 心情 正面 可憐 果然 準時 抵達 徘徊 街上 低頭 相反 抬頭 中性 囁嚅 負面 正式 書面 用詞 眼淚 憤怒 尿意 忍住 猶豫 騙人 別管他 相信 現實 喉嚨 跳 口吻 欣喜 粉紅色 吞吞吐吐 失去 責任 過的 順利 技術 達成 路邊攤 攝影師 普及 溫柔"
 ---
 
+### Rose Class (R007)
+
+論文 {thesis}
+
+研究所 {graduate School}
+
+研討會 {seminar}
+
+長大 {grow up}
+
+庫德族 {Kud}
+
+今天懶懶的 {Today been lazy}
+
+今天有點廢 {Today, little bit wasted}
+
+今天狀況不太好 {Today is not very good}
+
+我只有大學畢業 {I only have college graduation}
+
+我以前住在上海，因為covid，我想搬到安全的地方，就是台灣 {I used to live in Shanghai, because Covid-19, I want to move to a safe place, is Taiwan}
+
+最了解怎麼阻擋中國病毒的國家 {I know how to stop Chinese viruses}
+
+疫情開始的時候，因為剛好是中國新年，我在泰國和柬埔寨旅行，我在柬埔寨等了 {At the beginning of the epidemic, because just a Chinese New Year, I traveled in Thailand and Cambodia, I have waited in Cambodia.}
+
+疫情慢慢好轉，慢慢準備回中國 {The epidemic slowly improved, slowly prepared to return to China}
+
+其他也住中國的朋友都不想回去 {Other friends who have lived in China don't want to go back.}
+
+當疫情開始失控，我決定要去一個安全的地方 {When the epidemic starts out of control, I decided to go to a safe place.}
+
+2020年三月，台灣開放邊境的最後一天，我來到台灣 {In March 2020, the last day of the open border in Taiwan, I came to Taiwan.}
+
+那一天下午三點我開始思考飛來台灣，我查了CDC網站，發現每個小時政策都在改變，五點訂好了機票，七點就到機場了。 {At three o'clock in the afternoon, I started thinking to think about Taiwan. I checked the CDC website and found that every hour policy was changed, five o'clock got a ticket, and I went to the airport at 7:00.}
+
+一開始我覺得自己很笨，在這裡一個人都不認識，還要被隔離兩個禮拜 {At first, I felt very stupid, I didn't know one here, I have to be isolated from two worships.}
+
+他不想跟我同桌，但是我不怪他 {He doesn't want to be with me, but I don't blame him.}
+
+在那個時候飛來台灣，讓我覺得有點罪惡感，剛來的前半年，我都沒有認識新朋友 {At that time, I fly to Taiwan, let me feel a little sin, I didn't know new friends in the first half of the year.}
+
+去年九月我搬進一個合租公寓，有美國人、台灣人還有歐洲人，那時候已經有一年沒認識新朋友了，所以我有點焦慮， {In September last year, I moved into a shared apartment. There were Americans, and Taiwanese and Europeans. At that time, I didn't know new friends a year, so I was a little anxiety.}
+
+那時候我不知道自己會在台灣待多久 {At that time, I didn't know how long I would stay in Taiwan.}
+
+你會在台北待多久？ {How long will you stay in Taipei?}
+
+我之前說再幾個月就會離開台灣，現在也是這麼想 {I said before, I will leave Taiwan a few months, and I still think now.}
+
+去年一月的時候，我覺得疫情還會持續很久，所以我在中國的房子就沒續約了 {In January last year, I felt that the epidemic will last for a long time, so I didn't renew the house in China.}
+
+付租金 {Pay rent}
+
+永遠不會結束 {Never end}
+
+隔離政策 {Isolation policy}
+
+社會 {society}
+
+創意產業 {Creative Industry}
+
+比較有國際性、挑戰性 {More international, challenging}
+
+太安逸了 {So too!}
+
+有趣的人 {Interesting person}
+
+我已經是個懶散的人 {I am already a lazy person}
+
+胡志明市 西貢 {Ho Chi Minh City Saigon}
+
+胡志明市——上海——台北 {Ho Chi Minh City - Shanghai - Taipei}
+
+很丟臉 {Very shameful}
+
+當地人 {Locals}
+
+比較多共通點 {More common points}
+
+中國人比較有狼性，台灣人太溫和了 {Chinese people have wolf, Taiwanese is too gentle}
+
+沒有很多競爭 {There are no many competition}
+
+很友善 {Very friendly}
+
+回報 {Reward}
+
+有禮 {Courtesy}
+
+歐洲 {Europe}
+
+繼續 即使我離開台灣，還要繼續學中文 {Continue even if I leave Taiwan, continue to learn Chinese}
+
+如果我的聽力再提升，我的中文程度可以更高 {If my listening is raised, my Chinese level can be higher.}
+
+跨年 {Cross year}
+
+新年新希望 {new Year, New hope}
+
+減肥、看書、存錢 {Weight loss, reading, deposit}
+
+電子閱讀器 {E-reader}
+
+實體書 {Physical book}
+
+!!!用太多網路，理解力會變得比較膚淺 {Use too many networks, understanding will become superficial}
+
+會變得比較沒耐心 {It will become more patient}
+
+我有這個傾向 {I have this tendency}
+
+網路文章 {Network article}
+
+看書的時候可以和不同的想法做連結 {You can connect with different ideas when you read the book.}
+
+書本的內容可以激發我們思考 {The content of the book can stimulate us think}
+
+關掉網路 {Turn off the network}
+
+我把手機放在樓上，去公共空間看書 {I put the phone in the upstairs, go to the public space reading}
+
+依賴視覺 {Dependent}
+
+讀不進去 {Can't read}
+
+另一半 {Another half}
+
+中文程度 {Chinese level}
+
+每個禮拜七個小時 {Seven hours for each week}
+
+沒辦法開口說話 {No way to speak}
+
+心理障礙 {Psychological barrier}
+
+小時候比較內向 {Too often}
+
+有點怕犯錯 {A little afraid of making mistakes}
+
+我長大以後變得比較有自信了 {I have become more confident later.}
+
+可以跟很多人溝通、談話 {Can communicate with many people, talk}
+
+我說中文的時候覺得自己很笨 {I feel very stupid when I speak Chinese.}
+
+如果我不確定自己說得對不對，我就不會說 {If I am not sure that I am right, I will not say it.}
+
+考慮太多 {Too much consideration}
+
+迷因 {Fascinating}
+
+Ptt 鄉民 {PTT villagers}
+
+Google評論 {Google comment}
+
+台灣人在意的點很奇怪 {Taiwanese care is very strange}
+
+你對社會的觀察很犀利 {Your observation of society is very sharp}
+
+科威特、杜拜、澳洲、 {Kuwait, Dubai, Australia,}
+
+記憶力不好 {bad memory}
+
+通用的語言是阿拉伯語，國際學校是用英文 {GM is Arabic, international school is in English}
+
+你在多語的環境長大 {You grow up in the multilingual environment}
+
+我是接案工程師，我的客戶都在中國 {I am a lecture engineer, my customers are in China.}
+
+「自雇者」 {"Self-employer"}
+
+我在自學寫程式，這是我目前的重心 {I am writing a self-study, this is my current } 
+
+
 ### Rose Class 3
 
 七月以前我朋友幫我賣汽車。因為我沒有居留證，應該我朋友幫我。 {My friend helped me sell a car before July. Because I have no residence card, I should help me.}
@@ -314,181 +489,6 @@ Uber eats用自己的攝影師 {Uber Eats with its own photographer}
 他因為 covid 過世了 {He passed away because Covid}
 
 
-### Rose Class (R007)
-
-今天懶懶的 {Today is lazy}
-
-今天有點廢 {Today is a little waste}
-
-論文 {paper}
-
-研究所 {graduate School}
-
-研討會 {seminar}
-
-今天狀況不太好 {Today is not very good}
-
-我只有大學畢業 {I only have college graduation}
-
-長大 {grow up}
-
-庫德族 {Kud}
-
-我以前住在上海，因為covid-19的關係，我想搬到安全的地方，就是台灣 {I used to live in Shanghai, because Covid-19 relationship, I want to move to a safe place, is Taiwan}
-
-最了解怎麼阻擋中國病毒的國家 {I know how to stop Chinese viruses}
-
-疫情開始的時候，因為剛好是中國新年，我在泰國和柬埔寨旅行，我在柬埔寨等了 {At the beginning of the epidemic, because just a Chinese New Year, I traveled in Thailand and Cambodia, I have waited in Cambodia.}
-
-疫情慢慢好轉，慢慢準備回中國 {The epidemic slowly improved, slowly prepared to return to China}
-
-其他也住中國的朋友都不想回去 {Other friends who have lived in China don't want to go back.}
-
-當疫情開始失控，我決定要去一個安全的地方 {When the epidemic starts out of control, I decided to go to a safe place.}
-
-2020年三月，台灣開放邊境的最後一天，我來到台灣 {In March 2020, the last day of the open border in Taiwan, I came to Taiwan.}
-
-訂機票 {book a flight}
-
-那一天下午三點我開始思考飛來台灣，我查了CDC網站，發現每個小時政策都在改變，五點訂好了機票，七點就到機場了。 {At three o'clock in the afternoon, I started thinking to think about Taiwan. I checked the CDC website and found that every hour policy was changed, five o'clock got a ticket, and I went to the airport at 7:00.}
-
-一開始我覺得自己很笨，在這裡一個人都不認識，還要被隔離兩個禮拜 {At first, I felt very stupid, I didn't know one here, I have to be isolated from two worships.}
-
-他不想跟我同桌，但是我不怪他 {He doesn't want to be with me, but I don't blame him.}
-
-在那個時候飛來台灣，讓我覺得有點罪惡感，剛來的前半年，我都沒有認識新朋友 {At that time, I fly to Taiwan, let me feel a little sin, I didn't know new friends in the first half of the year.}
-
-去年九月我搬進一個合租公寓，有美國人、台灣人還有歐洲人，那時候已經有一年沒認識新朋友了，所以我有點焦慮， {In September last year, I moved into a shared apartment. There were Americans, and Taiwanese and Europeans. At that time, I didn't know new friends a year, so I was a little anxiety.}
-
-那時候我不知道自己會在台灣待多久 {At that time, I didn't know how long I would stay in Taiwan.}
-
-你會在台北待多久？ {How long will you stay in Taipei?}
-
-我之前說再幾個月就會離開台灣，現在也是這麼想 {I said before, I will leave Taiwan a few months, and I still think now.}
-
-去年一月的時候，我覺得疫情還會持續很久，所以我在中國的房子就沒續約了 {In January last year, I felt that the epidemic will last for a long time, so I didn't renew the house in China.}
-
-付租金 {Pay rent}
-
-永遠不會結束 {Never end}
-
-隔離政策 {Isolation policy}
-
-社會 {society}
-
-創意產業 {Creative Industry}
-
-比較有國際性、挑戰性 {More international, challenging}
-
-太安逸了 {So too!}
-
-有趣的人 {Interesting person}
-
-我已經是個懶散的人 {I am already a lazy person}
-
-胡志明市 西貢 {Ho Chi Minh City Saigon}
-
-胡志明市——上海——台北 {Ho Chi Minh City - Shanghai - Taipei}
-
-很丟臉 {Very shameful}
-
-當地人 {Locals}
-
-比較多共通點 {More common points}
-
-中國人比較有狼性，台灣人太溫和了 {Chinese people have wolf, Taiwanese is too gentle}
-
-沒有很多競爭 {There are no many competition}
-
-很友善 {Very friendly}
-
-回報 {Reward}
-
-有禮 {Courtesy}
-
-歐洲 {Europe}
-
-繼續 即使我離開台灣，還要繼續學中文 {Continue even if I leave Taiwan, continue to learn Chinese}
-
-如果我的聽力再提升，我的中文程度可以更高 {If my listening is raised, my Chinese level can be higher.}
-
-跨年 {Cross year}
-
-新年新希望 {new Year, New hope}
-
-減肥、看書、存錢 {Weight loss, reading, deposit}
-
-電子閱讀器 {E-reader}
-
-實體書 {Physical book}
-
-!!!用太多網路，理解力會變得比較膚淺 {Use too many networks, understanding will become superficial}
-
-會變得比較沒耐心 {It will become more patient}
-
-我有這個傾向 {I have this tendency}
-
-網路文章 {Network article}
-
-看書的時候可以和不同的想法做連結 {You can connect with different ideas when you read the book.}
-
-書本的內容可以激發我們思考 {The content of the book can stimulate us think}
-
-關掉網路 {Turn off the network}
-
-我把手機放在樓上，去公共空間看書 {I put the phone in the upstairs, go to the public space reading}
-
-依賴視覺 {Dependent}
-
-讀不進去 {Can't read}
-
-另一半 {Another half}
-
-中文程度 {Chinese level}
-
-每個禮拜七個小時 {Seven hours for each week}
-
-沒辦法開口說話 {No way to speak}
-
-心理障礙 {Psychological barrier}
-
-小時候比較內向 {Too often}
-
-有點怕犯錯 {A little afraid of making mistakes}
-
-我長大以後變得比較有自信了 {I have become more confident later.}
-
-可以跟很多人溝通、談話 {Can communicate with many people, talk}
-
-我說中文的時候覺得自己很笨 {I feel very stupid when I speak Chinese.}
-
-如果我不確定自己說得對不對，我就不會說 {If I am not sure that I am right, I will not say it.}
-
-考慮太多 {Too much consideration}
-
-迷因 {Fascinating}
-
-Ptt 鄉民 {PTT villagers}
-
-Google評論 {Google comment}
-
-台灣人在意的點很奇怪 {Taiwanese care is very strange}
-
-你對社會的觀察很犀利 {Your observation of society is very sharp}
-
-科威特、杜拜、澳洲、 {Kuwait, Dubai, Australia,}
-
-記憶力不好 {bad memory}
-
-通用的語言是阿拉伯語，國際學校是用英文 {GM is Arabic, international school is in English}
-
-你在多語的環境長大 {You grow up in the multilingual environment}
-
-我是接案工程師，我的客戶都在中國 {I am a lecture engineer, my customers are in China.}
-
-「自雇者」 {"Self-employer"}
-
-我在自學寫程式，這是我目前的重心 {I am writing a self-study, this is my current } 
 
 end
 

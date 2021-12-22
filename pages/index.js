@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Chinesepod series split into 5 episode modules.</p>
+        {/* <p>Chinesepod series split into 5 episode modules.</p> */}
       </section>{" "}
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Intermediate</h2>
