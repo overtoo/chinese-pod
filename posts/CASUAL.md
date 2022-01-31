@@ -7,6 +7,12 @@ pinyinMeaning: "huáiyí tánxìng"
 
 ### Casual Additions
 
+我以為後面那個是隻狗,笑死。
+
+看了好久才發現 {looked for a while, then noticed}
+
+我不是平民百姓 我美國待7年了。你美國的，你待沒過去
+
 車子比較好停
 
 停電
