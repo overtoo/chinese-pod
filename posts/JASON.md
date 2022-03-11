@@ -63,3 +63,55 @@ words: "那種 嘉賓 女孩 話 沅 志 志 心動女 倆 印度 有些人 是�
    總是 有 很多  話題 
 
   烏克蘭
+
+### Jason class JC0002
+
+最近每天下雨。{It is raining every day.}
+
+最近經常下雨。{Recently rainfall}
+
+我的工作  是 一個項目一個項目的。{My job is a project for a project.}
+
+我做完一個項目就可以了。{I can do a project.}
+
+我只需要做完這個項目。{I just need to finish this project.}
+
+整個句子。{Whole sentence}
+
+你能把整個句子 寫下來嗎？{Can you write the whole sentence?}
+
+在線詞典。{online dictionary}
+
+我喜歡把生詞寫下來。{I like to write about the words.}
+
+瀏覽器。{Browser}
+
+蛋白粉。{Protein powder}
+
+代餐。{Meal Replacement }
+
+和Jason上課的時候，我可以喝蛋白粉。{When I was in class with jason, I can drink protein powder.}
+
+奶昔。{milkshake}
+
+我買了 巧克力口味的蛋白粉。{I bought a chocolate taste of protein powder.}
+
+英國的品牌。{British brand}
+
+我買了3袋。{I bought 3 bags}
+
+我覺得這個味道很好。{I think this taste is very good.}
+
+體恤/T卹。{Skirt / T-shirt}
+
+這個公司給了我一個贈品。{This company gave me a gift.}
+
+練字。{Practice word}
+
+我們的課是半個小時的。{Our class is half an hour}
+
+股市 /股票市場。{Stock market / stock market}
+
+我經常看股票市場嗎？{Do I often watch the stock market?}
+
+祝你好運。{good luck}
